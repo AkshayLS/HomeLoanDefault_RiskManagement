@@ -20,7 +20,7 @@ An important fraction of the population finds it difficult to get their home loa
 The goal of this project is to a build a model which can ensure that applicants capable of repayment are not rejected, thereby empowering their applicants/clients to be successful.
 
 # Code 
-Please refer the ipynb notebooks for a detailed walkthrough of the entire project.
+Please refer the ipynb notebooks for a detailed walkthrough of the entire project. If you are not able to view any notebook please copy the url of the notebook and paste it in [nbviewer.org](https://nbviewer.org/) and you will be able to view it there.
 
 # Workflow
 1.  Exploratory Data Analysis   
